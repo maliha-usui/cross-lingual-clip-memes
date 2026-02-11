@@ -1,0 +1,19 @@
+{
+  "english_memes": {
+    "n": 50,
+    "avg_confidence": 0.4476992675662041,
+    "std_confidence": 0.19804195871093175
+  },
+  "japanese_memes_en_labels": {
+    "n": 86,
+    "avg_confidence": 0.37407917286767517,
+    "std_confidence": 0.11038938559473437
+  },
+  "japanese_memes_jp_labels": {
+    "n": 86,
+    "avg_confidence": 0.31722581681124,
+    "std_confidence": 0.07384573336110947
+  },
+  "cross_lingual_gap": 0.07362009469852893,
+  "label_language_gap": 0.056853356056435156
+}
