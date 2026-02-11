@@ -1,6 +1,6 @@
 # cross-lingual-clip-memes
 
-# 🌐 Cross-Lingual Meme Understanding with CLIP
+# Cross-Lingual Meme Understanding with CLIP
 
 **Research Question:** Does CLIP's multimodal understanding transfer cross-lingually to Japanese memes?
 
