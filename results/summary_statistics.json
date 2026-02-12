@@ -1,8 +1,8 @@
 {
   "english_memes": {
-    "n": 50,
-    "avg_confidence": 0.4476992675662041,
-    "std_confidence": 0.19804195871093175
+    "n": 200,
+    "avg_confidence": 0.4136845345795155,
+    "std_confidence": 0.16771621785259072
   },
   "japanese_memes_en_labels": {
     "n": 86,
@@ -14,6 +14,6 @@
     "avg_confidence": 0.31722581681124,
     "std_confidence": 0.07384573336110947
   },
-  "cross_lingual_gap": 0.07362009469852893,
+  "cross_lingual_gap": 0.039605361711840315,
   "label_language_gap": 0.056853356056435156
 }
