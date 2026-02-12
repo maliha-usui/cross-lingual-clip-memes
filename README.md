@@ -25,7 +25,7 @@
 ## Methodology
 
 ### Datasets
-- **English Memes:** 50 memes from [Hateful Memes dataset](https://huggingface.co/datasets/limjiayi/hateful_memes_expanded)
+- **English Memes:** 200 memes from [Hateful Memes dataset](https://huggingface.co/datasets/limjiayi/hateful_memes_expanded)
 - **Japanese Memes:** 86 manually collected and annotated memes from Japanese social media
 
 ### Model
