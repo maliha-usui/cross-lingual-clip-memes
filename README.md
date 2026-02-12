@@ -6,16 +6,17 @@
 
 | Dataset | Avg Confidence |
 |---------|----------------|
-| English memes + English labels (n=50) | **44.8%** |
+| English memes + English labels (n=200) | **41.4%** |
 | Japanese memes + English labels (n=86) | **37.4%** |
 | Japanese memes + Japanese labels (n=86) | **31.7%** |
 
 ### Key Findings
 
-1. **Cross-lingual gap: 7.4%** — CLIP shows lower confidence on Japanese memes compared to English memes
-2. **Label language gap: 5.7%** — Japanese labels perform worse than English labels on Japanese images
-3. **Accuracy on Japanese memes: 41.9%** — When comparing CLIP predictions to human annotations
-4. **Sentiment bias:** CLIP predicted "funny" for 58% of Japanese memes, while completely missing sarcasm (0% accuracy)
+1. **Cross-lingual gap: 4.0%** — CLIP shows lower confidence on Japanese memes
+2. **Label language gap: 5.7%** — Japanese labels perform worse than English labels
+3. **Total gap: 9.7%** — Combined cross-lingual limitation
+4. **Accuracy on Japanese memes: 41.9%** — When comparing to human annotations
+5. **Sentiment bias:** CLIP predicted "funny" for 58% of Japanese memes, missing sarcasm entirely (0% accuracy)
 
 ### Visualizations
 
