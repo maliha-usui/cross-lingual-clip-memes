@@ -80,6 +80,16 @@ pip install -r requirements.txt
 | Cat memes | 4+ | 猫ミーム |
 | AI-generated | 4+ | ChatGPT/AI art humor |
 
+## 🎯 Relevance to Entertainment AI
+
+These findings are directly applicable to:
+- **Content moderation** for Japanese social media platforms
+- **Multilingual meme recommendation** systems
+- **Cross-lingual humor understanding** in entertainment applications
+- **Cultural AI** development for global markets
+
+This work demonstrates the challenges vision-language models face when applied to Japanese content—a critical consideration for companies like Sony developing multimodal AI for Japanese entertainment.
+
 ## Citation
 
 If you use this work, please cite:
